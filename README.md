@@ -2,7 +2,7 @@
 
 **PREDICCIÓN PRECIOS DE VIVIENDA EN COLOMBIA**
 
-<img src="https://github.com/RicardoJaimes04/ModeloViviendas-IA/blob/main/Banner.png">
+<img src="https://github.com/RicardoJaimes04/ModeloViviendas-IA/blob/main/banner.png">
 
 **Autores:** Yeison Adrian Caceres Torres, Ricardo Svensson Jaimes Estupiñan, Darien Andres Castañeda Agudelos
 
