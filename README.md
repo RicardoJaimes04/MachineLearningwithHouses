@@ -56,3 +56,8 @@ El proyecto se desarrollará en las siguientes fases:
 2. [**Implementación de los algoritmos de clasificación vistos en clase**](#cla)
 3. [**Implementación de los algoritmos de regresión vistos en clase**](#reg)
 4. [**Implementación de Algoritmos Genéticos**](#gen)
+
+---
+
+Explicación del Proyecto
+Para una explicación detallada del proyecto, puedes ver el siguiente video en YouTube:{https://youtu.be/H6GAvFi5fRU}
